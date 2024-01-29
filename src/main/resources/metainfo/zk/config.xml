@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>jd</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>na.Version</version-class>
+		<version-uid>ys</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>na.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>na.</value>
+	</library-property>
+	-->
+</zk>
